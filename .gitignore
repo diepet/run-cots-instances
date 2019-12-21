@@ -1,0 +1,4 @@
+kafka/kafka-data/
+kafka/kafka-log/
+zookeeper/zoo-data/
+zookeeper/zoo-log/
