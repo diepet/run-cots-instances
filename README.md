@@ -1,4 +1,4 @@
-# Run Tool Instances
+# Run Tool Instance
 
 Folder templates for running an isolated instance of a specific software tool.
 
